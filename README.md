@@ -21,12 +21,13 @@
 - [PICO-8](https://www.lexaloffle.com/pico-8.php) - Encourages small, but expressive designs.
 - [Phaser](https://phaser.io/) - Fast, free and open-source framework for Canvas and WebGL powered browser games.
 - [Heaps](https://heaps.io/) - Mature cross platform graphics engine designed for high performance games.
-
+- [Game Maker Studio](https://www.yoyogames.com/gamemaker) - GameMaker Studio 2 is the latest and greatest incarnation of GameMaker!
 ## Audio
 
 ### Music
 
 - [Bosca Ceoil](https://boscaceoil.net/) - Free, easy to use tool for creating music!
+- [Famistudio](https://famistudio.org/) - Very simple music editor for the SNES!
 
 ### Sound
 
