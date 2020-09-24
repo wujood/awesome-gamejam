@@ -24,6 +24,7 @@
 ### Sound
 
 - [bfxr](https://www.bfxr.net/) - Flash + AIR sound effects generator.
+- [sfxr](https://sfxr.me/) - Dead easy game sound effects generator.
 
 ## Graphics
 
