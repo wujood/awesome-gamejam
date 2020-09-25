@@ -6,6 +6,7 @@
   - [Sound](#sound)
 - [Graphics](#graphics)
   - [3D Modelling](#3d-modelling)
+  - [Image Editor](#image-editor)
   - [Pixel Editor](#pixel-editor)
   - [Vector Editor](#vector-editor)
   - [Color](#color)
@@ -42,10 +43,13 @@
 - [Blender](https://www.blender.org/) - Open source 3D creation. Free to use for any purpose, forever.
 - [Magicavoxel](https://www.voxelmade.com/magicavoxel/) - A free lightweight 8-bit voxel editor and interactive path tracing renderer.
 
+### Image Editor
+- [GIMP](https://www.gimp.org/) - Free and Open Source Image Editor
+
 ### Pixel Editor
 - [Pyxel Edit](https://pyxeledit.com/) - Pixel art drawing application especially designed for working with tiles.
 - [Lospec Pixel Editor](https://lospec.com/pixel-editor/) - Free pixel art program that you can use right here in your web browser.
-- [Aseprite](https://www.aseprite.org/) - Animated sprite editor & pixel art tool
+- [Aseprite](https://www.aseprite.org/) - Animated sprite editor and pixel art tool
 
 ### Vector Editor
  - [Inkscape](https://inkscape.org/) - Free and open source vector graphics editor.
