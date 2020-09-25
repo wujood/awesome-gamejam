@@ -63,3 +63,7 @@ This is a curated list that contains helpful links and resources for game jams a
 
 ### Tasks
 - [Trello](https://trello.com/) - Boards, lists, and cards to enable teams to organize and prioritize project.
+
+### Time
+- [TomatoTimer](https://tomato-timer.com/) - A [pomodoro](https://en.wikipedia.org/wiki/Pomodoro_Technique) timer that is dead easy to use.
+- [Pomofocus](https://pomofocus.io/) - Combines tasks with a [pomodoro](https://en.wikipedia.org/wiki/Pomodoro_Technique) timer to estimate when you should be done and to track progress.
