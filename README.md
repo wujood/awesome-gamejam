@@ -1,4 +1,3 @@
-This is a curated list that contains helpful links and resources for game jams and game development.
 
 ## Contents
 - [Engine](#engine)
