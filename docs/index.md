@@ -8,6 +8,7 @@ This is a curated list that contains helpful links and resources for game jams a
 - [Graphics](#graphics)
   - [3D Modelling](#3d-modelling)
   - [Pixel Editor](#pixel-editor)
+  - [Vector Editor](#vector-editor)
   - [Color](#color)
   - [Misc](#misc)
 - [Managment](#managment)
@@ -28,6 +29,7 @@ This is a curated list that contains helpful links and resources for game jams a
 - [Bosca Ceoil](https://boscaceoil.net/) - Free, easy to use tool for creating music.
 - [Famistudio](https://famistudio.org/) - Very simple music editor for the SNES.
 - [Tonnoform](https://nikos1001.github.io/Tonnoform/) - Easy to use open-source 8 bit music making tool.
+- [cgMusic](http://maciej.codeminion.com/2008/05/cgmusic-computers-create-music/) - Generate music with a certain level of quality.
 
 ### Sound
 - [bfxr](https://www.bfxr.net/) - Flash + AIR sound effects generator.
@@ -38,11 +40,15 @@ This is a curated list that contains helpful links and resources for game jams a
 
 ### 3D-Modelling
 - [Blender](https://www.blender.org/) - Open source 3D creation. Free to use for any purpose, forever.
+- [Magicavoxel](https://www.voxelmade.com/magicavoxel/) - A free lightweight 8-bit voxel editor and interactive path tracing renderer.
 
-### Pixel editor
+### Pixel Editor
 - [Pyxel Edit](https://pyxeledit.com/) - Pixel art drawing application especially designed for working with tiles.
 - [Lospec Pixel Editor](https://lospec.com/pixel-editor/) - Free pixel art program that you can use right here in your web browser.
 - [Aseprite](https://www.aseprite.org/) - Animated sprite editor & pixel art tool
+
+### Vector Editor
+ - [Inkscape](https://inkscape.org/) - Free and open source vector graphics editor.
 
 ### Color
 - [Lospec Color Palette](https://lospec.com/palette-list) - Searchable collection of palettes for pixel art.
