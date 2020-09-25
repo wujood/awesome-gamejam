@@ -10,7 +10,7 @@
   - [Color](#color)
   - [Misc](#misc)
 - [Managment](#managment)
-  -[Tasks](#tasks)
+  - [Tasks](#tasks)
   
 ## Engine
 - [Unity](https://unity.com/) - Robust and beginner-friendly.
