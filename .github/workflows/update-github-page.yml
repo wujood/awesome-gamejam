@@ -1,0 +1,31 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Update Github Page
+
+# Controls when the action will run. Triggers the workflow on push or pull request
+# events but only for the master branch
+on:
+  push:
+    branches: [ master ]
+    
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+      with:
+        persist-credentials: false
+        fetch-depth: 0
+    - name: Create local changes
+      run: |
+        rm docs/index.md
+        cp README.md docs/index.md
+    - name: Commit files
+      run: |
+        git config --local user.email "weiss@nerd-labor.de"
+        git config --local user.name "Sebastian Weiß"
+        git commit -m "Update github page" -a
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
