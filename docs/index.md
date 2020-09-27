@@ -31,6 +31,7 @@
 - [Famistudio](https://famistudio.org/) - Very simple music editor for the SNES.
 - [Tonnoform](https://nikos1001.github.io/Tonnoform/) - Easy to use open-source 8 bit music making tool.
 - [cgMusic](http://maciej.codeminion.com/2008/05/cgmusic-computers-create-music/) - Generate music with a certain level of quality.
+- [LMMS](https://lmms.io/) - Free cross-platform alternative to commercial programs like FL Studio
 
 ### Sound
 - [bfxr](https://www.bfxr.net/) - Flash + AIR sound effects generator.
