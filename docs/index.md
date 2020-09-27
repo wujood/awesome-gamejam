@@ -67,8 +67,11 @@
 ## Managment
 
 ### Tasks
-- [Trello](https://trello.com/) - Boards, lists, and cards to enable teams to organize and prioritize project.
+- [Trello](https://trello.com/) - [Kanban](https://de.wikipedia.org/wiki/Kanban) Boards, lists, and cards to enable teams to organize and prioritize project.
+- [Kanban.org](https://kanboard.org/) - Free, self-hosted [Kanban](https://de.wikipedia.org/wiki/Kanban) project managment software
+- [MeisterTaks](https://www.meistertask.com/en) - (Free) online task management tool for teams.
 
 ### Time
 - [TomatoTimer](https://tomato-timer.com/) - A [pomodoro](https://en.wikipedia.org/wiki/Pomodoro_Technique) timer that is dead easy to use.
 - [Pomofocus](https://pomofocus.io/) - Combines tasks with a [pomodoro](https://en.wikipedia.org/wiki/Pomodoro_Technique) timer to estimate when you should be done and to track progress.
+- [Toggl Track](https://toggl.com/track/) - (Free) time tracking for any workflow. Online, offline, or on-the-go.
