@@ -9,6 +9,8 @@ on:
     branches: [ master ]
     paths: 
       - "README.md"
+      - "docs/_config.yml"
+      - ".github/workflows/update-github-page.yml"
     
 jobs:
   build:
