@@ -49,7 +49,7 @@
 ### Sound
 - [bfxr](https://www.bfxr.net/) - Flash + AIR sound effects generator.
 - [sfxr](https://sfxr.me/) - Dead easy game sound effects generator.
-
+- [ZzFX](https://killedbyapixel.github.io/ZzFX/) - Sound effect generator similar to to BFXR/SFXR but reworked from the ground up.
 
 ## Graphics
 
@@ -79,7 +79,8 @@
 - [Autodraw](https://www.autodraw.com/) - Online tool to predict the placeholder images you need.
 - [Gaugan](http://nvidia-research-mingyuliu.com/gaugan/) - Skybox generator (kind of)
 - [Smart upscaler](https://icons8.com/upscaler) - Enlarge and enhance images automatically using AI.
-
+- [ZzSprite](https://killedbyapixel.github.io/ZzSprite/) - Procedurally generate tiny pixel art sprites with options for mutation and animation frames.
+- [ZzArt](https://zzart.3d2k.com/) - Evolve HD textures for use in your games.
 ## Managment
 
 ### Tasks
