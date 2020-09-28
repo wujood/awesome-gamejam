@@ -23,6 +23,7 @@
 - [Phaser](https://phaser.io/) - Fast, free and open-source framework for Canvas and WebGL powered browser games.
 - [Heaps](https://heaps.io/) - Mature cross platform graphics engine designed for high performance games.
 - [Game Maker Studio](https://www.yoyogames.com/gamemaker) - GameMaker Studio 2 is the latest and greatest incarnation of GameMaker.
+- [CraftyJS](https://craftyjs.com/) - Lightweight JavaScript framework for 2D games.
 
 ## Audio
 
@@ -54,7 +55,8 @@
 
 ### Vector Editor
  - [Inkscape](https://inkscape.org/) - Free and open source vector graphics editor.
-
+ - [Figma](https://www.figma.com/) - (Free) vector graphics editor that supports collaborative editing.
+ 
 ### Color
 - [Lospec Color Palette](https://lospec.com/palette-list) - Searchable collection of palettes for pixel art.
 
