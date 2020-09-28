@@ -1,7 +1,10 @@
 ![Update Github Page](https://github.com/wujood/awesome-gamejam/workflows/Update%20Github%20Page/badge.svg)
 ## Contents
-- [Engine](#engine)
+- [Development](#development)
+  - [Engine](#engine)
+  - [Framework](#framework)
 - [Audio](#audio)
+  - [DAW](#daw)
   - [Music](#music)
   - [Sound](#sound)
 - [Graphics](#graphics)
@@ -15,17 +18,25 @@
   - [Tasks](#tasks)
   - [Time](#time)
   
-## Engine
+## Development
+
+### Engine
 - [Unity](https://unity.com/) - Robust and beginner-friendly.
 - [Unreal](https://www.unrealengine.com/) - Powerful engine with a steep learning curve.
 - [Godot](https://godotengine.org/) - Completely free and open-source.
 - [PICO-8](https://www.lexaloffle.com/pico-8.php) - Encourages small, but expressive designs.
-- [Phaser](https://phaser.io/) - Fast, free and open-source framework for Canvas and WebGL powered browser games.
 - [Heaps](https://heaps.io/) - Mature cross platform graphics engine designed for high performance games.
 - [Game Maker Studio](https://www.yoyogames.com/gamemaker) - GameMaker Studio 2 is the latest and greatest incarnation of GameMaker.
-- [CraftyJS](https://craftyjs.com/) - Lightweight JavaScript framework for 2D games.
+
+### Framework
+- [Phaser](https://phaser.io/) - Fast, free and open-source framework for Canvas and WebGL powered browser games.
+- [CraftyJS](https://craftyjs.com/) - Free and lightweight JavaScript framework for 2D games.
+- [PyGame](https://www.pygame.org/) - Free set of python modules designed for writing video games.
 
 ## Audio
+
+### DAW
+- [Audacity](https://www.audacityteam.org/) - Free, open source, cross-platform audio software.
 
 ### Music
 - [Bosca Ceoil](https://boscaceoil.net/) - Free, easy to use tool for creating music.
@@ -33,6 +44,7 @@
 - [Tonnoform](https://nikos1001.github.io/Tonnoform/) - Easy to use open-source 8 bit music making tool.
 - [cgMusic](http://maciej.codeminion.com/2008/05/cgmusic-computers-create-music/) - Generate music with a certain level of quality.
 - [LMMS](https://lmms.io/) - Free cross-platform alternative to commercial programs like FL Studio
+- [MuseScore](https://musescore.org/) - Create, play and print beautiful sheet music.
 
 ### Sound
 - [bfxr](https://www.bfxr.net/) - Flash + AIR sound effects generator.
@@ -47,7 +59,7 @@
 
 ### Image Editor
 - [GIMP](https://www.gimp.org/) - Free and Open Source Image Editor
-
+- [Paint.NET](https://www.getpaint.net/) - Free image and photo editing software
 ### Pixel Editor
 - [Pyxel Edit](https://pyxeledit.com/) - Pixel art drawing application especially designed for working with tiles.
 - [Lospec Pixel Editor](https://lospec.com/pixel-editor/) - Free pixel art program that you can use right here in your web browser.
