@@ -37,13 +37,13 @@
 
 ### DAW
 - [Audacity](https://www.audacityteam.org/) - Free, open source, cross-platform audio software.
+- [LMMS](https://lmms.io/) - Free cross-platform alternative to commercial programs like FL Studio
 
 ### Music
 - [Bosca Ceoil](https://boscaceoil.net/) - Free, easy to use tool for creating music.
 - [Famistudio](https://famistudio.org/) - Very simple music editor for the SNES.
 - [Tonnoform](https://nikos1001.github.io/Tonnoform/) - Easy to use open-source 8 bit music making tool.
 - [cgMusic](http://maciej.codeminion.com/2008/05/cgmusic-computers-create-music/) - Generate music with a certain level of quality.
-- [LMMS](https://lmms.io/) - Free cross-platform alternative to commercial programs like FL Studio
 - [MuseScore](https://musescore.org/) - Create, play and print beautiful sheet music.
 
 ### Sound
