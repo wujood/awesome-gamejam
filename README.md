@@ -56,10 +56,13 @@
 ### 3D-Modelling
 - [Blender](https://www.blender.org/) - Open source 3D creation. Free to use for any purpose, forever.
 - [Magicavoxel](https://www.voxelmade.com/magicavoxel/) - A free lightweight 8-bit voxel editor and interactive path tracing renderer.
+- [ZBrush](https://pixologic.com/zbrush/trial/) - Industry standard for digital sculpting and painting.
 
 ### Image Editor
 - [GIMP](https://www.gimp.org/) - Free and Open Source Image Editor
 - [Paint.NET](https://www.getpaint.net/) - Free image and photo editing software
+- [Krita](https://krita.org/) - Krita is a professional free and open source painting program.
+
 ### Pixel Editor
 - [Pyxel Edit](https://pyxeledit.com/) - Pixel art drawing application especially designed for working with tiles.
 - [Lospec Pixel Editor](https://lospec.com/pixel-editor/) - Free pixel art program that you can use right here in your web browser.
@@ -77,7 +80,6 @@
 - [Gaugan](http://nvidia-research-mingyuliu.com/gaugan/) - Skybox generator (kind of)
 - [Smart upscaler](https://icons8.com/upscaler) - Enlarge and enhance images automatically using AI.
 
-
 ## Managment
 
 ### Tasks
@@ -89,3 +91,14 @@
 - [TomatoTimer](https://tomato-timer.com/) - A [pomodoro](https://en.wikipedia.org/wiki/Pomodoro_Technique) timer that is dead easy to use.
 - [Pomofocus](https://pomofocus.io/) - Combines tasks with a [pomodoro](https://en.wikipedia.org/wiki/Pomodoro_Technique) timer to estimate when you should be done and to track progress.
 - [Toggl Track](https://toggl.com/track/) - (Free) time tracking for any workflow. Online, offline, or on-the-go.
+
+## Release
+
+### Hosting
+- [itch.io](https://itch.io/) - Simple way share indie games online for free.
+- [Dropbox](https://www.dropbox.com/) - 2 GB of storage to share photos, documents, and other files from any device.
+- [Google Drive](https://drive.google.com/) - 15 GB of storage to share photos, documents, and other files from any device.
+
+### Marketing
+- [Screen2Gif](https://www.screentogif.com/) - Screen, webcam and sketchboard recorder with an integrated editor that exports to gif.
+- [All image editors](#image-editor) - Improve your marketing material by modifying it with image editors
