@@ -29,6 +29,7 @@ jobs:
       run: |
         git config --local user.email "weiss@nerd-labor.de"
         git config --local user.name "Sebastian Weiß"
+        git add -A
         git commit -am "Update github page" || echo "Nothing to update"
     - name: Push changes
       uses: ad-m/github-push-action@master
