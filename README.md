@@ -33,6 +33,9 @@
 - [CraftyJS](https://craftyjs.com/) - Free and lightweight JavaScript framework for 2D games.
 - [PyGame](https://www.pygame.org/) - Free set of python modules designed for writing video games.
 
+### Map & World Editor
+- [Tiled](https://www.mapeditor.org/) - Free, easy to use and flexible level editor.
+
 ## Audio
 
 ### DAW
@@ -102,4 +105,5 @@
 
 ### Marketing
 - [Screen2Gif](https://www.screentogif.com/) - Screen, webcam and sketchboard recorder with an integrated editor that exports to gif.
+- [Chronolapse](https://www.chronolapse.com/) - Easily create your own timelapse videos.
 - [All image editors](#image-editor) - Improve your marketing material by modifying it with image editors
