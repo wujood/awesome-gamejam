@@ -1,7 +1,13 @@
 <div align="center">
+	<h2>
+		Awesome Game Jam
+	</h2>
 	<div>
 		<img width="500" src="banner.svg" alt="Awesome Game Jam">
 	</div>
+	<h4>
+		This is a curated list that contains helpful links and resources for game jams and game development.
+	</h4>
 </div>
 
 ![Update Github Page](https://github.com/wujood/awesome-gamejam/workflows/Update%20Github%20Page/badge.svg)
