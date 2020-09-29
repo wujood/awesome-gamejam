@@ -1,3 +1,9 @@
+<div align="center">
+	<div>
+		<img width="500" src="banner.svg" alt="Awesome Game Jam">
+	</div>
+</div>
+
 ![Update Github Page](https://github.com/wujood/awesome-gamejam/workflows/Update%20Github%20Page/badge.svg)
 ## Contents
 - [Development](#development)
