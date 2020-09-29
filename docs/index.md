@@ -3,7 +3,7 @@
 		Awesome Game Jam
 	</h2>
 	<div>
-		<img width="500" src="banner.svg" alt="Awesome Game Jam">
+		<img width="500" src="https://github.com/wujood/awesome-gamejam/blob/master/docs/banner.svg" alt="Awesome Game Jam">
 	</div>
 	<h4>
 		This is a curated list that contains helpful links and resources for game jams and game development.
