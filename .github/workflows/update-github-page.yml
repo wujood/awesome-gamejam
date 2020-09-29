@@ -24,6 +24,7 @@ jobs:
       run: |
         rm docs/index.md
         cp README.md docs/index.md
+        cp banner.svg docs/banner.svg
     - name: Commit files
       run: |
         git config --local user.email "weiss@nerd-labor.de"
