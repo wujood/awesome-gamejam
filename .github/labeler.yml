@@ -1,0 +1,8 @@
+# List changed
+List: README.md
+
+# Workflow changed
+Workflow: .github/workflows/*
+
+# Banner changed
+Banner: banner.svg
