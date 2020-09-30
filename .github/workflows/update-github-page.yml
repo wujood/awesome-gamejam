@@ -11,6 +11,7 @@ on:
       - "README.md"
       - "docs/_config.yml"
       - ".github/workflows/update-github-page.yml"
+      - "banner.svg"
     
 jobs:
   build:
