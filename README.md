@@ -9,7 +9,7 @@
 		This is a curated list that contains helpful links and resources for game jams and game development.
 	</h4>
 </div>
-
+!
 ![Update Github Page](https://github.com/wujood/awesome-gamejam/workflows/Update%20Github%20Page/badge.svg)
 ## Contents
 - [Development](#development)
