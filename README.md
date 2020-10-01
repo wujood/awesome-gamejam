@@ -26,7 +26,7 @@
   - [Vector Editor](#vector-editor)
   - [Color](#color)
   - [Misc](#misc)
-- [Managment](#managment)
+- [Management](#management)
   - [Tasks](#tasks)
   - [Time](#time)
   
