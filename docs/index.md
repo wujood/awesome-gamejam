@@ -39,6 +39,7 @@
 - [PICO-8](https://www.lexaloffle.com/pico-8.php) - Encourages small, but expressive designs.
 - [Heaps](https://heaps.io/) - Mature cross platform graphics engine designed for high performance games.
 - [Game Maker Studio](https://www.yoyogames.com/gamemaker) - GameMaker Studio 2 is the latest and greatest incarnation of GameMaker.
+- [Pixelbox.js](https://pixwlk.itch.io/pixelbox) - Lightweight Javascript engine for browser games
 
 ### Framework
 - [Phaser](https://phaser.io/) - Fast, free and open-source framework for Canvas and WebGL powered browser games.
@@ -78,6 +79,7 @@
 - [GIMP](https://www.gimp.org/) - Free and Open Source Image Editor
 - [Paint.NET](https://www.getpaint.net/) - Free image and photo editing software
 - [Krita](https://krita.org/) - Krita is a professional free and open source painting program.
+- [FireAlpaca](http://firealpaca.com/) - Free digital painting software, on Mac and Windows.
 
 ### Pixel Editor
 - [Pyxel Edit](https://pyxeledit.com/) - Pixel art drawing application especially designed for working with tiles.
