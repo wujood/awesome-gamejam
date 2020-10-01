@@ -53,6 +53,7 @@
 ### DAW
 - [Audacity](https://www.audacityteam.org/) - Free, open source, cross-platform audio software.
 - [LMMS](https://lmms.io/) - Free cross-platform alternative to commercial programs like FL Studio
+- [Tracktion Waveform Free](https://www.tracktion.com/products/waveform-free) - Free, cross-platform and intuitive audio workstation
 
 ### Music
 - [Bosca Ceoil](https://boscaceoil.net/) - Free, easy to use tool for creating music.
@@ -96,7 +97,7 @@
 - [Smart upscaler](https://icons8.com/upscaler) - Enlarge and enhance images automatically using AI.
 - [ZzSprite](https://killedbyapixel.github.io/ZzSprite/) - Procedurally generate tiny pixel art sprites with options for mutation and animation frames.
 - [ZzArt](https://zzart.3d2k.com/) - Evolve HD textures for use in your games.
-## Managment
+## Management
 
 ### Tasks
 - [Trello](https://trello.com/) - [Kanban](https://de.wikipedia.org/wiki/Kanban) Boards, lists, and cards to enable teams to organize and prioritize project.
