@@ -26,7 +26,7 @@
   - [Vector Editor](#vector-editor)
   - [Color](#color)
   - [Misc](#misc)
-- [Managment](#managment)
+- [Management](#management)
   - [Tasks](#tasks)
   - [Time](#time)
   
@@ -53,7 +53,7 @@
 ### DAW
 - [Audacity](https://www.audacityteam.org/) - Free, open source, cross-platform audio software.
 - [LMMS](https://lmms.io/) - Free cross-platform alternative to commercial programs like FL Studio
-- [Tracktion Waveform Free] - Free, cross-platform and intuitive audio workstation
+- [Tracktion Waveform Free](https://www.tracktion.com/products/waveform-free) - Free, cross-platform and intuitive audio workstation
 
 ### Music
 - [Bosca Ceoil](https://boscaceoil.net/) - Free, easy to use tool for creating music.
