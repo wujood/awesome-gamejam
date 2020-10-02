@@ -80,6 +80,7 @@
 - [Paint.NET](https://www.getpaint.net/) - Free image and photo editing software
 - [Krita](https://krita.org/) - Krita is a professional free and open source painting program.
 - [FireAlpaca](http://firealpaca.com/) - Free digital painting software, on Mac and Windows.
+- [Removebg](https://www.remove.bg/) - Free Online Site Which Remove backgrounds 100% automatically in 5 seconds with zero clicks
 
 ### Pixel Editor
 - [Pyxel Edit](https://pyxeledit.com/) - Pixel art drawing application especially designed for working with tiles.
