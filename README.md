@@ -99,6 +99,8 @@
 - [Smart upscaler](https://icons8.com/upscaler) - Enlarge and enhance images automatically using AI.
 - [ZzSprite](https://killedbyapixel.github.io/ZzSprite/) - Procedurally generate tiny pixel art sprites with options for mutation and animation frames.
 - [ZzArt](https://zzart.3d2k.com/) - Evolve HD textures for use in your games.
+- [Removebg](https://www.remove.bg/) - Free Online Site Which Remove backgrounds 100% automatically in 5 seconds with zero clicks.
+
 ## Management
 
 ### Tasks
