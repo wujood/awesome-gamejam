@@ -107,6 +107,7 @@
 - [Trello](https://trello.com/) - [Kanban](https://de.wikipedia.org/wiki/Kanban) Boards, lists, and cards to enable teams to organize and prioritize project.
 - [Kanban.org](https://kanboard.org/) - Free, self-hosted [Kanban](https://de.wikipedia.org/wiki/Kanban) project managment software
 - [MeisterTask](https://www.meistertask.com/en) - (Free) online task management tool for teams.
+- [Google Docs](https://docs.google.com/) - Share text files and spreadsheets with your team.
 
 ### Time
 - [TomatoTimer](https://tomato-timer.com/) - A [pomodoro](https://en.wikipedia.org/wiki/Pomodoro_Technique) timer that is dead easy to use.
