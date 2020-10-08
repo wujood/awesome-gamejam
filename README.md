@@ -46,6 +46,9 @@
 - [CraftyJS](https://craftyjs.com/) - Free and lightweight JavaScript framework for 2D games.
 - [PyGame](https://www.pygame.org/) - Free set of python modules designed for writing video games.
 
+### Online Services
+- [Dreamlo](https://dreamlo.com/) - Add leaderboards and promocodes to your game.
+
 ### Map & World Editor
 - [Tiled](https://www.mapeditor.org/) - Free, easy to use and flexible level editor.
 
