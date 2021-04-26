@@ -66,6 +66,7 @@
 - [Tonnoform](https://nikos1001.github.io/Tonnoform/) - Easy to use open-source 8 bit music making tool.
 - [cgMusic](http://maciej.codeminion.com/2008/05/cgmusic-computers-create-music/) - Generate music with a certain level of quality.
 - [MuseScore](https://musescore.org/) - Create, play and print beautiful sheet music.
+- [BeepBox](https://www.beepbox.co) - Online tool for sketching and sharing instrumental melodies.
 
 ### Sound
 - [bfxr](https://www.bfxr.net/) - Flash + AIR sound effects generator.
