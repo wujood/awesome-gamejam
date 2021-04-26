@@ -46,6 +46,8 @@
 - [Phaser](https://phaser.io/) - Fast, free and open-source framework for Canvas and WebGL powered browser games.
 - [CraftyJS](https://craftyjs.com/) - Free and lightweight JavaScript framework for 2D games.
 - [PyGame](https://www.pygame.org/) - Free set of python modules designed for writing video games.
+- [libGDX](https://libgdx.com/) - Cross-platform Java game development framework based on OpenGL.
+- [LÖVE](https://love2d.org/) - Open-source framework to make 2D games in Lua.
 
 ### Online Services
 - [Dreamlo](https://dreamlo.com/) - Add leaderboards and promocodes to your game.
@@ -90,6 +92,7 @@
 - [Pyxel Edit](https://pyxeledit.com/) - Pixel art drawing application especially designed for working with tiles.
 - [Lospec Pixel Editor](https://lospec.com/pixel-editor/) - Free pixel art program that you can use right here in your web browser.
 - [Aseprite](https://www.aseprite.org/) - Animated sprite editor and pixel art tool
+- [PiskelApp](https://www.piskelapp.com/) - Free online editor for animated sprites & pixel art
 
 ### Vector Editor
  - [Inkscape](https://inkscape.org/) - Free and open source vector graphics editor.
