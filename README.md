@@ -100,6 +100,7 @@
  
 ### Color
 - [Lospec Color Palette](https://lospec.com/palette-list) - Searchable collection of palettes for pixel art.
+- [Flat UI Colors 2](https://flatuicolors.com/) - 280 handpicked colors split into 13 palettes.
 
 ### Misc
 - [Autodraw](https://www.autodraw.com/) - Online tool to predict the placeholder images you need.
