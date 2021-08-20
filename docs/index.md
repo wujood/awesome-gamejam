@@ -29,6 +29,7 @@
   - [Misc](#misc)
 - [Management](#management)
   - [Tasks](#tasks)
+  - [Design](#design)
   - [Time](#time)
   
 ## Development
@@ -121,7 +122,7 @@
 
 ### Design
 - [Machinations](https://machinations.io/) - (Free) online tool to prototype the internal economy of your game using Machinations language.
-- [Miro](https://miro.com//) - (Free) online tool with infinite canvas to sketch and design prototypes.
+- [Miro](https://miro.com/) - (Free) online tool with infinite canvas to sketch and design prototypes.
 
 ### Time
 - [TomatoTimer](https://tomato-timer.com/) - A [pomodoro](https://en.wikipedia.org/wiki/Pomodoro_Technique) timer that is dead easy to use.
