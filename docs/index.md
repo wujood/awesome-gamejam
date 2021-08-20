@@ -29,6 +29,7 @@
   - [Misc](#misc)
 - [Management](#management)
   - [Tasks](#tasks)
+  - [Design](#design)
   - [Time](#time)
   
 ## Development
@@ -118,6 +119,10 @@
 - [Kanban.org](https://kanboard.org/) - Free, self-hosted [Kanban](https://de.wikipedia.org/wiki/Kanban) project managment software
 - [MeisterTask](https://www.meistertask.com/en) - (Free) online task management tool for teams.
 - [Google Docs](https://docs.google.com/) - Share text files and spreadsheets with your team.
+
+### Design
+- [Machinations](https://machinations.io/) - (Free) online tool to prototype the internal economy of your game using Machinations language.
+- [Miro](https://miro.com/) - (Free) online tool with infinite canvas to sketch and design prototypes.
 
 ### Time
 - [TomatoTimer](https://tomato-timer.com/) - A [pomodoro](https://en.wikipedia.org/wiki/Pomodoro_Technique) timer that is dead easy to use.
