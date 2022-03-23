@@ -114,6 +114,7 @@
 - [ZzArt](https://zzart.3d2k.com/) - Evolve HD textures for use in your games.
 - [Removebg](https://www.remove.bg/) - Free Online Site Which Remove backgrounds 100% automatically in 5 seconds with zero clicks.
 - [Easy Releasy](https://jannikboysen.itch.io/easy-releasy) - A downloadable template pack to create itch.io pages.
+- [VQGAN+CLIP](https://github.com/nerdyrodent/VQGAN-CLIP) - A complex and powerful text-to-image generator using modern AI technology.
 
 ## Management
 
