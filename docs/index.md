@@ -16,6 +16,7 @@
   - [Engine](#engine)
   - [Framework](#framework)
   - [Online Services](#online-services)
+  - [Tools](#tools)
 - [Audio](#audio)
   - [DAW](#daw)
   - [Music](#music)
@@ -55,6 +56,9 @@
 
 ### Online Services
 - [Dreamlo](https://dreamlo.com/) - Add leaderboards and promocodes to your game.
+
+### Tools
+- [git-tresor](https://github.com/thebitrebels/git-tresor) - Encrypt dev-secrets to store them securly next to your source code.
 
 ### Map & World Editor
 - [Tiled](https://www.mapeditor.org/) - Free, easy to use and flexible level editor.
