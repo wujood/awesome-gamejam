@@ -59,6 +59,7 @@
 
 ### Tools
 - [git-tresor](https://github.com/thebitrebels/git-tresor) - Encrypt dev-secrets to store them securely next to your source code.
+- [obs-disp](https://github.com/AweSkyBear/obs-disp) - thin JavaScript/TypeScript library for clean and easy object creation and communcation
 
 ### Map & World Editor
 - [Tiled](https://www.mapeditor.org/) - Free, easy to use and flexible level editor.
