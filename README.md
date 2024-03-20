@@ -56,7 +56,7 @@
 
 ### Online Services
 - [Dreamlo](https://dreamlo.com/) - Add leaderboards and promocodes to your game.
-- [YogurtTheHorse Leaderboards)(https://github.com/YogurtTheHorse/highscores) - Free to use leaderboards with open-source server side.
+- [YogurtTheHorse Leaderboards](https://github.com/YogurtTheHorse/highscores) - Free to use leaderboards with open-source server side.
 
 ### Tools
 - [git-tresor](https://github.com/thebitrebels/git-tresor) - Encrypt dev-secrets to store them securely next to your source code.
