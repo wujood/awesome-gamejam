@@ -99,6 +99,7 @@
 
 ### Pixel Editor
 - [Pyxel Edit](https://pyxeledit.com/) - Pixel art drawing application especially designed for working with tiles.
+- [Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - Pixelorama is a free and open source pixel art editor created with the Godot-Engine.
 - [Lospec Pixel Editor](https://lospec.com/pixel-editor/) - Free pixel art program that you can use right here in your web browser.
 - [Aseprite](https://www.aseprite.org/) - Animated sprite editor and pixel art tool
 - [PiskelApp](https://www.piskelapp.com/) - Free online editor for animated sprites & pixel art
