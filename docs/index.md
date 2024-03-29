@@ -45,6 +45,7 @@
 - [Pixelbox.js](https://pixwlk.itch.io/pixelbox) - Lightweight Javascript engine for browser games.
 - [Clickteam Fusion](https://www.clickteam.com/clickteam-fusion-2-5-free-edition) - Easy to use game engine for beginners.
 - [Construct 3D](https://www.construct.net/en) - Powerful Javascript based engine with visual coding editor and more!
+- [olcPixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine) - A open source single-file prototyping and game-engine framework created in C++.
 - [gbdk-2020](https://github.com/gbdk-2020/gbdk-2020) - A C compiler, assembler, linker and set of libraries for the Z80 like Nintendo Gameboy.
 
 ### Framework
@@ -59,10 +60,12 @@
 - [YogurtTheHorse Leaderboards](https://github.com/YogurtTheHorse/highscores) - Free to use leaderboards with open-source server side.
 
 ### Tools
+- [Visual Studio Code](https://code.visualstudio.com/) - Free code editor. Built on open source. Runs everywhere.
 - [git-tresor](https://github.com/thebitrebels/git-tresor) - Encrypt dev-secrets to store them securely next to your source code.
 
 ### Map & World Editor
 - [Tiled](https://www.mapeditor.org/) - Free, easy to use and flexible level editor.
+- [LDtk](https://ldtk.io/) - A fast, free, open source 2D level editor from the director of Dead Cells.
 
 ## Audio
 
@@ -114,13 +117,12 @@
 
 ### Misc
 - [Autodraw](https://www.autodraw.com/) - Online tool to predict the placeholder images you need.
-- [Gaugan](http://nvidia-research-mingyuliu.com/gaugan/) - Skybox generator (kind of)
 - [Smart upscaler](https://icons8.com/upscaler) - Enlarge and enhance images automatically using AI.
 - [ZzSprite](https://killedbyapixel.github.io/ZzSprite/) - Procedurally generate tiny pixel art sprites with options for mutation and animation frames.
 - [ZzArt](https://zzart.3d2k.com/) - Evolve HD textures for use in your games.
 - [Removebg](https://www.remove.bg/) - Free Online Site Which Remove backgrounds 100% automatically in 5 seconds with zero clicks.
 - [Easy Releasy](https://jannikboysen.itch.io/easy-releasy) - A downloadable template pack to create itch.io pages.
-- [VQGAN+CLIP](https://github.com/nerdyrodent/VQGAN-CLIP) - A complex and powerful text-to-image generator using modern AI technology.
+- [BitFontMaker2](https://www.pentacom.jp/pentacom/bitfontmaker2/) - Free online pixel font editor with gallery of fonts from other users.
 
 ## Management
 
@@ -133,7 +135,9 @@
 ### Design
 - [Machinations](https://machinations.io/) - (Free) online tool to prototype the internal economy of your game using Machinations language.
 - [Miro](https://miro.com/) - (Free) online tool with infinite canvas to sketch and design prototypes.
-
+- [Lunacy](https://icons8.com/lunacy) - Free design alternative to Figma
+- [PureRef](https://www.pureref.com/) - A free stand-alone program for Windows, Mac and Linux that keeps track of your reference images.
+- 
 ### Time
 - [TomatoTimer](https://tomato-timer.com/) - A [pomodoro](https://en.wikipedia.org/wiki/Pomodoro_Technique) timer that is dead easy to use.
 - [Pomofocus](https://pomofocus.io/) - Combines tasks with a [pomodoro](https://en.wikipedia.org/wiki/Pomodoro_Technique) timer to estimate when you should be done and to track progress.
