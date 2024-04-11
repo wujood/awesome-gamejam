@@ -137,7 +137,7 @@
 - [Miro](https://miro.com/) - (Free) online tool with infinite canvas to sketch and design prototypes.
 - [Lunacy](https://icons8.com/lunacy) - Free design alternative to Figma
 - [PureRef](https://www.pureref.com/) - A free stand-alone program for Windows, Mac and Linux that keeps track of your reference images.
-- 
+
 ### Time
 - [TomatoTimer](https://tomato-timer.com/) - A [pomodoro](https://en.wikipedia.org/wiki/Pomodoro_Technique) timer that is dead easy to use.
 - [Pomofocus](https://pomofocus.io/) - Combines tasks with a [pomodoro](https://en.wikipedia.org/wiki/Pomodoro_Technique) timer to estimate when you should be done and to track progress.
